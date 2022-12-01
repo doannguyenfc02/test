@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Bai27/1.0.0": {
+      "Bai28/1.0.0": {
         "runtime": {
-          "Bai27.dll": {}
+          "Bai28.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Bai27/1.0.0": {
+    "Bai28/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

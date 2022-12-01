@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DataCode\\C#\\Source\\Bai27\\Bai27.csproj": {}
+    "D:\\DataCode\\C#\\Source\\Bai28\\Bai28.csproj": {}
   },
   "projects": {
-    "D:\\DataCode\\C#\\Source\\Bai27\\Bai27.csproj": {
+    "D:\\DataCode\\C#\\Source\\Bai28\\Bai28.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DataCode\\C#\\Source\\Bai27\\Bai27.csproj",
-        "projectName": "Bai27",
-        "projectPath": "D:\\DataCode\\C#\\Source\\Bai27\\Bai27.csproj",
+        "projectUniqueName": "D:\\DataCode\\C#\\Source\\Bai28\\Bai28.csproj",
+        "projectName": "Bai28",
+        "projectPath": "D:\\DataCode\\C#\\Source\\Bai28\\Bai28.csproj",
         "packagesPath": "C:\\Users\\doann\\.nuget\\packages\\",
-        "outputPath": "D:\\DataCode\\C#\\Source\\Bai27\\obj\\",
+        "outputPath": "D:\\DataCode\\C#\\Source\\Bai28\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\doann\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,4 +1,4 @@
-namespace Bai27
+namespace Bai28
 {
     internal static class Program
     {
@@ -11,7 +11,11 @@ namespace Bai27
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new FrmMain());
+            frmLogin frm= new frmLogin();
+            if(frm.ShowDialog()==DialogResult.OK)
+            {
+                Application.Run(new Form1());
+            }    
         }
     }
 }
